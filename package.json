@@ -1,0 +1,14 @@
+{
+  "name": "koaone",
+  "version": "1.0.0",
+  "description": "First 2 koa  Apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stas K.",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.15.0"
+  }
+}
